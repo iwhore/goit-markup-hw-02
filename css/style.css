@@ -83,7 +83,7 @@ address{
     color: #2e2f42;
    }
 
-   .something{
+   .title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -99,7 +99,7 @@ address{
    }
 
    .team{
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
    }
 
    .name{
