@@ -35,3 +35,17 @@ header{
 .navigation :focus{
     color: #404bbf;
 }
+
+.adress{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.adress :hover{
+    color: #404bbf;
+}
+
+.adress :focus{
+    color: #404bbf;
+}
