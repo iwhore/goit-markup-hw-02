@@ -79,7 +79,7 @@ address{
      background-color: #404BBF;
    }
 
-   .team{
+   .second{
     color: #2e2f42;
    }
 
@@ -96,4 +96,21 @@ address{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+   }
+
+   .team{
+    background-color: #FFFFFF;
+   }
+
+   .name{
+ 
+   }
+
+   .team h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
    }
