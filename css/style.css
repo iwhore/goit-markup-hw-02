@@ -27,3 +27,11 @@ header{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
+.navigation :hover{
+    color: #404bbf;
+}
+
+.navigation :focus{
+    color: #404bbf;
+}
