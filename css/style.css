@@ -131,3 +131,12 @@ address{
    footer p{
     color: #F4F4FD;
    }
+
+   .contacts{
+    color: #434455;
+   }
+
+   .contacts:hover,
+   .contacts:focus{
+    color: #404bbf;
+   }
