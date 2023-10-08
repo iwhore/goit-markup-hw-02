@@ -8,6 +8,13 @@ header{
     font-family: "Raleway", sans-serif;
 }
 
+.something{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
 .mainTittle{
     font-size: 56px;
     line-height: 1.07;
@@ -136,7 +143,9 @@ address{
     color: #434455;
    }
 
-   .contacts:hover,
+   .contacts:hover{
+    color: #404bbf;
+   }
    .contacts:focus{
     color: #404bbf;
    }
