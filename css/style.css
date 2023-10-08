@@ -42,10 +42,6 @@ header{
     color: #404bbf;
 }
 
-.navigation :focus{
-    color: #404bbf;
-}
-
 address{
     font-style: normal;
 }
